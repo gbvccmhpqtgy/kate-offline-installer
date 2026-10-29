@@ -8,7 +8,7 @@
   <img src="https://img.shields.io/badge/Category-Text+Editor-E63946?style=for-the-badge&logo=appstore" />
 </p>
 
-**💻 Kate Free Installer** — Kate is a free, powerful text editor from the KDE project with split view, session management, syntax highlighting for hundreds of languages, an embedded terminal, Git integration, and LSP support — offering IDE-like features in a lightweight package.. Works without internet access, no account required. Full offline installation.
+**💻 Kate Free Installer** — Kate is a free, open-source advanced text editor from KDE available for Windows, macOS, and Linux. Works without internet access, no account required. Full offline installation.
 
 <p align="center">
   <img src="https://skillicons.dev/icons?i=windows" />
@@ -30,16 +30,16 @@
 
 ## 📖 About Kate
 
-Kate is a free, powerful text editor from the KDE project with split view, session management, syntax highlighting for hundreds of languages, an embedded terminal, Git integration, and LSP support — offering IDE-like features in a lightweight package.
+Kate is a free, open-source advanced text editor from KDE available for Windows, macOS, and Linux. Features include powerful search and replace, session management, an embedded terminal, multiple cursors, syntax highlighting for hundreds of languages, and a plugin system. Kate is a lightweight alternative to full IDEs while providing enough power for serious development work.
 
 ---
 
 ## ❌ Problem: Kate is hard to access
 
-- **Linux-Primary** — Best experience on Linux; Windows and macOS ports are secondary
-- **KDE Dependencies** — Some features require KDE libraries which add overhead on non-Linux systems
-- **Interface Style** — KDE aesthetic less familiar on Windows and macOS
-- **Configuration Complexity** — Some features require manual configuration in settings
+- **KDE Dependencies** — Windows and macOS versions require additional KDE framework libraries
+- **Linux Native Feel** — Interface design most natural on Linux/KDE environments
+- **Plugin Ecosystem** — Smaller plugin selection than VS Code or JetBrains
+- **Documentation** — Some advanced features lack comprehensive documentation
 
 ---
 
@@ -121,7 +121,7 @@ Kate is a free, powerful text editor from the KDE project with split view, sessi
 
 ---
 
-**Kate Free Installer** — Kate is a free, powerful text editor from the KDE project with split view, session management, syntax highlighting for hundreds of languages, an embedded terminal, Git integration, and LSP support — offering IDE-like features in a lightweight package.. Install without internet connection today!
+**Kate Free Installer** — Kate is a free, open-source advanced text editor from KDE available for Windows, macOS, and Linux. Install without internet connection today!
 
 <div align="center">
 
